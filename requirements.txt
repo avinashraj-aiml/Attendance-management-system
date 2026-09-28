@@ -1,0 +1,5 @@
+# This project uses only Python's standard library
+# (argparse, sqlite3, csv, os, sys, datetime) — no third-party
+# packages are required. This file is included so the setup
+# step ("pip install -r requirements.txt") works as expected,
+# even though it has nothing to install.
